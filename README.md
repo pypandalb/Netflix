@@ -1,7 +1,6 @@
 # Netflix
-Netflix Data Analysis Project  
+My First Data Science Project - Netflix   
 
-My First Data Science Project  
 Welcome to my first Kaggle data science project! This project is a hands-on exploration of data analysis and visualization using Python.   
 
 It represents my journey into the field of data science, where I apply data cleaning, exploratory data analysis (EDA), and visualization techniques to extract insights from a dataset.
